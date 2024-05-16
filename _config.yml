@@ -1,5 +1,5 @@
 title: katherine-smily # 站点标题
-description: | # 头像背后的信息（html格式），<br/>代表换行
+# description: | # 头像背后的信息（html格式），<br/>代表换行
   # <a href="mailto:site@wu-kan.cn">
   #   <i class="fa-solid fa-envelope"></i>
   # </a>
@@ -201,18 +201,18 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     async="async"
                   ></script>
                 </div>
-              - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <div>
-                  <i class="fa-solid fa-thumbs-up fa-fw"></i>
-                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
-                    jekyll-theme-WuK
-                  </a>
-                </div>
-              - | # Copyright声明
-                <div>
-                  <i class="fa-solid fa-copyright fa-fw"></i>
-                  2017-2024 WuK
-                </div>
+              # - | # 觉得我的主题好用的话，让更多的人知道它吧！
+              #   <div>
+              #     <i class="fa-solid fa-thumbs-up fa-fw"></i>
+              #     <a href="https://jekyll-theme-WuK.wu-kan.cn">
+              #       jekyll-theme-WuK
+              #     </a>
+              #   </div>
+              # - | # Copyright声明
+              #   <div>
+              #     <i class="fa-solid fa-copyright fa-fw"></i>
+              #     2017-2024 WuK
+              #   </div>
             wordcount: # 全站字数统计
               enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
               prepend: <i class="fa-solid fa-user-edit fa-fw"></i>
@@ -247,7 +247,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://zh.wikipedia.org/wiki/File:Pikachu.png"
               />
               <link
                 rel="shortcut
